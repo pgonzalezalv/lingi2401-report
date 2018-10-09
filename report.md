@@ -1,7 +1,7 @@
 # Report #
 # LINGI2401 - Open Source strategy for software development #
 
-## Day 1 - 2018-09-25 ##
+## 2018-09-25 ##
 
 Today I went to the [Open Source strategy for software development][2401] class.
 
