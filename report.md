@@ -14,7 +14,8 @@ The first one is under [AGPLv3][anki-desktop-license]. The second one is under [
 
 I will check both to see on which one I will prefer working on, or if I prefer contributing to another project altogether.
 
-Since this is a course about using open source, I am writing this report in a git repo using a MIT license. The report will be organized as a log. References will available at the end of this report.
+Since this is a course about using open source, I am writing this report in a git repo using a MIT license. The report will be organized as a log. References will be available at the end of this report.
+
 
 <!-- # Links -->
 
