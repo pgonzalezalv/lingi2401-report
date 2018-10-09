@@ -52,6 +52,8 @@ From the [course repo][2401], here are a few questions to ask myself:
 
 ## References
 
+<!-- TODO: find a nicer way to use the refs, which type of refs and cites? -->
+
 [1] “Anki - powerful, intelligent flashcards.” [Online]. Available: https://apps.ankiweb.net/. [Accessed: 25-Sep-2018].
 
 [2] D. Elmes, Anki for desktop computers. Contribute to dae/anki development by creating an account on GitHub. 2018.
