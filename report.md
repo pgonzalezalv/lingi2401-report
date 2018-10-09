@@ -16,6 +16,28 @@ I will check both to see on which one I will prefer working on, or if I prefer c
 
 Since this is a course about using open source, I am writing this report in a git repo using a MIT license. The report will be organized as a log. References will be available at the end of this report.
 
+## 2018-10-09 ##
+
+I haven't really taken the time to think about which project to contribute to. Other projects that I find interesting:
+
+* [Exercism][exercism]
+* [Firefox Focus, aka Firefox Klar][ff]
+* [Rust][rust]
+
+From the [course repo][2401], here are a few questions to ask myself:
+
+> How to explore a project?
+* Who are the people taking the decisions? (usually, the core commiters)
+* What are the main communication channels? (are the deciders available on it?)
+* What's the vision for the near future?
+* What are the current challenges?
+
+> How to contribute to a project?
+* Start with the bug tracker: what are the "easy issues"
+* Present yourself on the communication channel, ask for suggestions to "start to play with the code"
+* Build the code and use your own build!
+* Have a motivation: "In the end, I want to bring to this project this and that!"
+* Identify controversials issues and widely discutted issues in the bug trackers
 
 <!-- # Links -->
 
@@ -24,6 +46,9 @@ Since this is a course about using open source, I am writing this report in a gi
 [ankidroid]: https://github.com/ankidroid/Anki-Android "AnkiDroid: Anki on Android"
 [anki-desktop-license]: https://github.com/dae/anki/blob/master/LICENSE "Anki desktop license"
 [ankidroid-license]: https://github.com/ankidroid/Anki-Android/blob/master/COPYING "AnkiDroid license"
+[exercism]: https://github.com/exercism/exercism "Exercism"
+[ff]: https://github.com/mozilla-mobile/focus-android/ "Firefox Focus for Android"
+[rust]: https://github.com/rust-lang/rust "The Rust Programming Language"
 
 ## References
 
