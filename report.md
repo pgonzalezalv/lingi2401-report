@@ -39,6 +39,10 @@ From the [course repo][2401], here are a few questions to ask myself:
 * Have a motivation: "In the end, I want to bring to this project this and that!"
 * Identify controversials issues and widely discutted issues in the bug trackers
 
+## 2018-10-30 ##
+
+I decided to work on [Firefox Focus/Klar][ff] and just forked and cloned the repository. Not sure what I will work on exactly but by playing with the code and since I use the android app daily, I'll eventually find something I think needs improvement or propose a new feature.
+
 <!-- # Links -->
 
 [2401]: https://github.com/ploum/lingi2401 "Open Source strategy for software development"
