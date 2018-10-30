@@ -37,7 +37,7 @@ From the [course repo][2401], here are a few questions to ask myself:
 * Present yourself on the communication channel, ask for suggestions to "start to play with the code"
 * Build the code and use your own build!
 * Have a motivation: "In the end, I want to bring to this project this and that!"
-* Identify controversials issues and widely discutted issues in the bug trackers
+* Identify controversial issues and widely discussed issues in the bug trackers
 
 ## 2018-10-30 ##
 
