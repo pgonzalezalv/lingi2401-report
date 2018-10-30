@@ -39,6 +39,26 @@ From the [course repo][2401], here are a few questions to ask myself:
 * Have a motivation: "In the end, I want to bring to this project this and that!"
 * Identify controversial issues and widely discussed issues in the bug trackers
 
+> Bug triaging
+* Find bugs that have been unanswered by developers
+* Try to reproduce them. Put yourself in the shoes of the developer.
+* Add any information that could help the developer.
+* If you can't reproduce, ask the initial reporter for more information (usually, there's a template)
+* Use tags and/or ping appropriately. Mark duplicates.
+
+> Documentation
+* Look at the current documentation. If there's none, ask the preferred way to start one.
+* Put yourself in the shoes of a new user. Write down what is not clear in the documentation.
+* Take screenshots using the development version if the interface is frozen.
+
+> Take part in the life of the project
+* Maintain the website
+* Organise/participate in AFK events
+* Help with merchandising
+* Write blog posts, share on social medias
+* Give conferences, make presentations in local events
+* Become a local point of contact
+
 ## 2018-10-30 ##
 
 I decided to work on [Firefox Focus/Klar][ff] and just forked and cloned the repository. Not sure what I will work on exactly but by playing with the code and since I use the android app daily, I'll eventually find something I think needs improvement or propose a new feature.
