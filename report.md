@@ -1,6 +1,30 @@
 # Report #
 # LINGI2401 - Open Source strategy for software development #
 
+## Table of contents ##
+
+<!-- [Introduction](#introduction) -->
+
+[2018-09-25](#2018-09-25)
+
+[2018-10-09](#2018-10-09)
+
+[2018-10-25](#2018-10-25)
+
+[2018-10-30](#2018-10-30)
+
+[2018-11-06](#2018-10-06)
+
+[2018-11-13](#2018-10-13)
+
+<!-- [Conclusion](#conclusion) -->
+
+[References](#References)
+
+<!-- ## Introduction ## -->
+
+<!-- TODO: introduction -->
+
 ## 2018-09-25 ##
 
 Today I went to the [Open Source strategy for software development][2401] class.
