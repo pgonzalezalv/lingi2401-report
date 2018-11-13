@@ -148,3 +148,9 @@ I found an interesting resource today from Mozilla. It is a guide on [Contributi
 [3] AnkiDroid: Anki on Android. Contribute to ankidroid/Anki-Android development by creating an account on GitHub. AnkiDroid, 2018.
 
 [4] L. Dricot, Lingi2401: Open Source strategy for software development - ploum/lingi2401. 2018.
+
+
+<!-- Final -->
+
+<!-- TODO: read the report's content and correct-->
+<!-- TODO: check for typos -->
