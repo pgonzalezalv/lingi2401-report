@@ -91,18 +91,53 @@ I decided to work on [Firefox Focus/Klar for Android][ff] and just forked and cl
 
 I just had an idea for a possible feature. There is no way to show the caption of an image. Not sure how to proceed right now. Try to do it immediately? Or first propose the feature, see the reactions on the repo, and then code it?
 
-<!-- # Links -->
+## 2018-11-13 ##
+
+I found an interesting resource today from Mozilla. It is a guide on [Contributing to the Mozilla code base][mdn-web-docs]. There is a lot of information to read. Here are a few things I learned that caught my attention:
+
+* Mozilla uses a bug tracking system called Bugzilla, aka b.m.o (for [bugzilla.mozilla.org](https://bugzilla.mozilla.org/));
+* There is a [student-project tag](https://bugzil.la/kw:student-project) in [b.m.o][bmo]:
+    - this might be a good place to find a project for the [LINGI2402 course][2402];
+* Mozilla has a very well made website to find a first contribution called [Codetribute][codetribute];
+* Basically how to contribute on a Mozilla project:
+    - I will come back to this documentation if I have doubts for a particular step;
+* A wiki on how to get involved with [Mozilla mobile projects][mozilla-mobile-wiki];
+* There are [Mozilla Community Participation Guidelines][mozilla-guidelines];
+    - these gives a good idea on the community's views, which I believe are very respectful one's;
+* [Firefox Focus][ff] has a [mailing list][ff-mailing-list] which I subscribed to:
+    - we'll see if it has interesting stuff, if not I'll opt out quite rapidly;
+* [Firefox Focus][ff] has also an [IRC channel][ff-irc]:
+    - I tried to connect to it with my default IRC client (Empathy), but it doesn't work. I get an "Network Error" message, but it doesn't tell me more... I tried looking on the web for a solution. Still no success. By the way, I think it is the first time I will connect to an IRC channel.
+    - I used another IRC client, a web-based one called [mibbit][mibbit]. I found a reason why it isn't working: _"You need to be identified to a registered account to join this channel"_. I'll try some other time, I don't know how to register for an account for the moment.
+
+<!-- ## Conclusion ## -->
+
+<!-- TODO: conclusion -->
+
+<!-- ## Links ## -->
 
 [2401]: https://github.com/ploum/lingi2401 "Open Source strategy for software development"
+[2402]: https://uclouvain.be/en-cours-2018-lingi2402 "Open Source Project"
 [anki-desktop]: https://github.com/dae/anki "Anki for desktop computers"
 [ankidroid]: https://github.com/ankidroid/Anki-Android "AnkiDroid: Anki on Android"
 [anki-desktop-license]: https://github.com/dae/anki/blob/master/LICENSE "Anki desktop license"
 [ankidroid-license]: https://github.com/ankidroid/Anki-Android/blob/master/COPYING "AnkiDroid license"
+[bmo]: https://bugzilla.mozilla.org/ "Bugzilla"
+[bugzilla-docs]: https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla "Documentation about B.m.o."
+[codetribute]: https://codetribute.mozilla.org/ "Find your first code contribution with Mozilla"
 [exercism]: https://github.com/exercism/exercism "Exercism"
 [ff]: https://github.com/mozilla-mobile/focus-android/ "Firefox Focus for Android"
+[ff-irc]: irc://irc.mozilla.org/focus "Firefox Focus IRC"
+[ff-license]: https://github.com/mozilla-mobile/focus-android/blob/master/LICENSE "Firefox Focus License"
+[ff-mailing-list]: https://mail.mozilla.org/listinfo/firefox-focus-public "Firefox-focus-public"
+[mdn-web-docs]: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction "Contributing to the Mozilla code base"
+[mibbit]: https://mibbit.com/ "Mibbit IRC WebChat"
+[mozilla-guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/ "Mozilla Community Participation Guidelines"
+[mozilla-mobile-wiki]: https://wiki.mozilla.org/Mobile/Get_Involved "Mobile/Get Involved"
 [rust]: https://github.com/rust-lang/rust "The Rust Programming Language"
 
-## References
+
+## References ##
 
 <!-- TODO: find a nicer way to use the refs, which type of refs and cites? -->
 
