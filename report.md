@@ -15,6 +15,8 @@
 
 [2018-11-13](#2018-11-13)
 
+[2018-11-27](#2018-11-27)
+
 <!-- [Conclusion](#conclusion) -->
 
 [References](#References)
@@ -107,6 +109,10 @@ I found an interesting resource today from Mozilla. It is a guide on [Contributi
 * [Firefox Focus][ff] has also an [IRC channel][ff-irc]:
     - I tried to connect to it with my default IRC client (Empathy), but it doesn't work. I get an "Network Error" message, but it doesn't tell me more... I tried looking on the web for a solution. Still no success. By the way, I think it is the first time I will connect to an IRC channel.
     - I used another IRC client, a web-based one called [mibbit][mibbit]. I found a reason why it isn't working: _"You need to be identified to a registered account to join this channel"_. I'll try some other time, I don't know how to register for an account for the moment.
+
+## 2018-11-27 ##
+
+I had a very frustrating phase while playing with the [Firefox Focus][ff] repo. I wasn't able after some hours to just run the app. I didn't think it could be so daunting, or maybe I just forgot how it could be. Trying to find some new hope. Note to my future self: "Audendum est; Venus ipsa audaces adiuvat". Which could be translated as "Be bold; Venus herself favors the bold". I am not at all religious but that will help me find some courage later on to try again. By the way, this is an ancient proverbial maxim a very good friend told me once. I remind myself of that when I'm struggling with something.
 
 <!-- ## Conclusion ## -->
 
