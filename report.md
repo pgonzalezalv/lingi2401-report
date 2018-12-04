@@ -17,6 +17,8 @@
 
 [2018-11-27](#2018-11-27)
 
+[2018-12-04](#2018-12-04)
+
 <!-- [Conclusion](#conclusion) -->
 
 [References](#References)
@@ -113,6 +115,23 @@ I found an interesting resource today from Mozilla. It is a guide on [Contributi
 ## 2018-11-27 ##
 
 I had a very frustrating phase while playing with the [Firefox Focus][ff] repo. I wasn't able after some hours to just run the app. I didn't think it could be so daunting, or maybe I just forgot how it could be. Trying to find some new hope. Note to my future self: "Audendum est; Venus ipsa audaces adiuvat". Which could be translated as "Be bold; Venus herself favors the bold". I am not at all religious but that will help me find some courage later on to try again. By the way, this is an ancient proverbial maxim a very good friend told me once. I remind myself of that when I'm struggling with something.
+
+## 2018-12-04 ##
+
+I just filed my first issue on the [Firefox Focus repo][ff]. It is a feature request. The issue is available  [here](https://github.com/mozilla-mobile/focus-android/issues/3997).
+
+This is actually the first issue I file on an open source project where I don't know the people behind it. I am quite excited, let's see how the community will react!
+
+While writing the new issue, there was an interesting helpful resource: https://github.com/mozilla-mobile/focus-android/blob/master/CONTRIBUTING.md
+
+I checked it out, and for new features I followed the given [guidelines](https://github.com/mozilla-mobile/shared-docs/blob/master/android/CONTRIBUTING_code.md):
+
+> **If you want to work on a new feature**, *always file an issue first* and wait
+for our team to discuss it. We want to ensure all teams (product, ux, engineering)
+have an opportunity to provide feedback. **Pull requests for unsolicited features
+are unlikely to get merged.**
+
+By the way, I noticed a bug on the xkcd.com website when it runs on Firefox Focus. Basically, it doesn't show the whole page (it is concatenated on the left side) and you cannot zoom out to show it (on both phone and tablet). I do think it is related to Firefox Focus "mobile" view, since when I switched to the desktop version of the site there is no problem (in the 3-dots menu, tick the "Request desktop site" box).
 
 <!-- ## Conclusion ## -->
 
