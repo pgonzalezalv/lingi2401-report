@@ -19,6 +19,8 @@
 
 [2018-12-04](#2018-12-04)
 
+[2018-12-06](#2018-12-06)
+
 <!-- [Conclusion](#conclusion) -->
 
 [References](#References)
@@ -132,6 +134,17 @@ have an opportunity to provide feedback. **Pull requests for unsolicited feature
 are unlikely to get merged.**
 
 By the way, I noticed a bug on the xkcd.com website when it runs on Firefox Focus. Basically, it doesn't show the whole page (it is concatenated on the left side) and you cannot zoom out to show it (on both phone and tablet). I do think it is related to Firefox Focus "mobile" view, since when I switched to the desktop version of the site there is no problem (in the 3-dots menu, tick the "Request desktop site" box).
+
+## 2018-12-06 ##
+
+No reactions on the issue and I haven't found a way to contact anyone from the repository directly for the moment. About the IRC channel, I have found a [clue](https://superuser.com/questions/106965/how-do-i-identify-with-services-on-irc) on how to register for an account. I have the impression I am on a quest right now, with many obstacles on the way. Basically I did the following steps:
+
+* connect to the Mozilla IRC server;
+* asked for help to NickServ, a robot, with `\msg NickServ help` and with `msg NickServ Help REGISTER`. It told me to use the command `\msg NickServ REGISTER password email` to register for an account;
+* confirm my email address;
+* and it works, finally!
+
+I have found the problem I had the other day with the repo. I thought I had Android SDK installed on my system, but it wasn't...! Now it is working... Let's finally test the app a bit.
 
 <!-- ## Conclusion ## -->
 
