@@ -3,7 +3,7 @@
 
 ## Table of contents ##
 
-<!-- [Introduction](#introduction) -->
+[Introduction](#introduction)
 
 [2018-09-25](#2018-09-25)
 
@@ -27,7 +27,12 @@
 
 [References](#References)
 
-<!-- ## Introduction ## -->
+## Introduction ##
+
+This report was made as a journal as advised by the professor at the beginning of the semester. It contains my evolution through the last few months.
+
+The project I tried to contribute to is : [Firefox Focus, aka Firefox Klar][ff].
+It is a quite recent mobile browser which is privacy-oriented. I choose that project because I believe it is important to have control over our data. Firefox Focus is a step towards that as it tries to block trackers in whatever form they may appear.
 
 <!-- TODO: introduction -->
 
