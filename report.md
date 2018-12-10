@@ -21,6 +21,8 @@
 
 [2018-12-06](#2018-12-06)
 
+[2018-12-10](#2018-12-10)
+
 <!-- [Conclusion](#conclusion) -->
 
 [References](#References)
@@ -145,6 +147,10 @@ No reactions on the issue and I haven't found a way to contact anyone from the r
 * and it works, finally!
 
 I have found the problem I had the other day with the repo. I thought I had Android SDK installed on my system, but it wasn't...! Now it is working... Let's finally test the app a bit.
+
+## 2018-12-10 ##
+
+I tried to get help on the IRC channel without any success the last few days and still no reaction on the issue. I guess people are quite busy at this period of the year. I have tried to run again the app, without success although I know which file needs to be changed (`WebContextMenu.kt`) but I am not sure where to start, since I can't run it to test it.
 
 <!-- ## Conclusion ## -->
 
