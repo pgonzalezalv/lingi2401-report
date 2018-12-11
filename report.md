@@ -106,8 +106,8 @@ I just had an idea for a possible feature. There is no way to show the caption o
 
 I found an interesting resource today from Mozilla. It is a guide on [Contributing to the Mozilla code base][mdn-web-docs]. There is a lot of information to read. Here are a few things I learned that caught my attention:
 
-* Mozilla uses a bug tracking system called Bugzilla, aka b.m.o (for [bugzilla.mozilla.org](https://bugzilla.mozilla.org/));
-* There is a [student-project tag](https://bugzil.la/kw:student-project) in [b.m.o][bmo]:
+* Mozilla uses a bug tracking system called Bugzilla, aka b.m.o (for [bugzilla.mozilla.org][bmo]);
+* There is a [student-project tag][mo-student-projet-kw] in [b.m.o][bmo]:
     - this might be a good place to find a project for the [LINGI2402 course][2402];
 * Mozilla has a very well made website to find a first contribution called [Codetribute][codetribute];
 * Basically how to contribute on a Mozilla project:
@@ -127,13 +127,11 @@ I had a very frustrating phase while playing with the [Firefox Focus][ff] repo. 
 
 ## 2018-12-04 ##
 
-I just filed my first issue on the [Firefox Focus repo][ff]. It is a feature request. The issue is available  [here](https://github.com/mozilla-mobile/focus-android/issues/3997).
+I just filed my first issue on the [Firefox Focus repo][ff]. It is a feature request. The issue is available  [here][ff-issue].
 
 This is actually the first issue I file on an open source project where I don't know the people behind it. I am quite excited, let's see how the community will react!
 
-While writing the new issue, there was an interesting helpful resource: https://github.com/mozilla-mobile/focus-android/blob/master/CONTRIBUTING.md
-
-I checked it out, and for new features I followed the given [guidelines](https://github.com/mozilla-mobile/shared-docs/blob/master/android/CONTRIBUTING_code.md):
+While writing the new issue, there was an interesting helpful [resource][ff-contribute]. I checked it out, and for new features I followed the given [guidelines][mozilla-android-project-contribute]:
 
 > **If you want to work on a new feature**, *always file an issue first* and wait
 for our team to discuss it. We want to ensure all teams (product, ux, engineering)
@@ -144,7 +142,7 @@ By the way, I noticed a bug on the xkcd.com website when it runs on Firefox Focu
 
 ## 2018-12-06 ##
 
-No reactions on the issue and I haven't found a way to contact anyone from the repository directly for the moment. About the IRC channel, I have found a [clue](https://superuser.com/questions/106965/how-do-i-identify-with-services-on-irc) on how to register for an account. I have the impression I am on a quest right now, with many obstacles on the way. Basically I did the following steps:
+No reactions on the issue and I haven't found a way to contact anyone from the repository directly for the moment. About the IRC channel, I have found a [clue][superuser] on how to register for an account. I have the impression I am on a quest right now, with many obstacles on the way. Basically I did the following steps:
 
 * connect to the Mozilla IRC server;
 * asked for help to NickServ, a robot, with `\msg NickServ help` and with `msg NickServ Help REGISTER`. It told me to use the command `\msg NickServ REGISTER password email` to register for an account;
@@ -180,19 +178,24 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 [anki-desktop-license]: https://github.com/dae/anki/blob/master/LICENSE "Anki desktop license"
 [ankidroid-license]: https://github.com/ankidroid/Anki-Android/blob/master/COPYING "AnkiDroid license"
 [bmo]: https://bugzilla.mozilla.org/ "Bugzilla"
+[bmo-student-projet-kw]: https://bugzil.la/kw:student-project "Keywords: student-project"
 [bugzilla-docs]: https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla "Documentation about B.m.o."
 [codetribute]: https://codetribute.mozilla.org/ "Find your first code contribution with Mozilla"
 [exercism]: https://github.com/exercism/exercism "Exercism"
 [ff]: https://github.com/mozilla-mobile/focus-android/ "Firefox Focus for Android"
+[ff-contribute]: https://github.com/mozilla-mobile/focus-android/blob/master/CONTRIBUTING.md "Contributing to Focus for Android"
+[ff-issue]: https://github.com/mozilla-mobile/focus-android/issues/3997 " Add title attribute in image context menu #3997"
 [ff-irc]: irc://irc.mozilla.org/focus "Firefox Focus IRC"
 [ff-license]: https://github.com/mozilla-mobile/focus-android/blob/master/LICENSE "Firefox Focus License"
 [ff-mailing-list]: https://mail.mozilla.org/listinfo/firefox-focus-public "Firefox-focus-public"
 [mdn-web-docs]: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction "Contributing to the Mozilla code base"
 [mibbit]: https://mibbit.com/ "Mibbit IRC WebChat"
+[mozilla-android-project-contribute]: https://github.com/mozilla-mobile/shared-docs/blob/master/android/CONTRIBUTING_code.md "Contributing code to Mozilla's Android projects"
 [mozilla-guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/ "Mozilla Community Participation Guidelines"
 [mozilla-mobile-wiki]: https://wiki.mozilla.org/Mobile/Get_Involved "Mobile/Get Involved"
 [rust]: https://github.com/rust-lang/rust "The Rust Programming Language"
-
+[superuser]: https://superuser.com/questions/106965/how-do-i-identify-with-services-on-irc "How do I identify with services on irc"
+[youtube]: https://youtu.be/dDKVKG3ESsk?t=2m12s "I'm going on an adventure!"
 
 ## References ##
 
