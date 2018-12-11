@@ -43,7 +43,7 @@ It is a quite recent mobile browser which is privacy-oriented. I choose that pro
 
 Today I went to the [Open Source strategy for software development][2401] class.
 
-We have to choose an open source project we which to contribute to. The teacher, Lionel Dricot, told us to work preferably on something we like and use. I was thinking of working on the [Anki project](https://apps.ankiweb.net/), which I use a lot for my studies. They have two repos on GitHub:
+We have to choose an open source project we which to contribute to. The teacher, Lionel Dricot, told us to work preferably on something we like and use. I was thinking of working on the [Anki project][anki-web], which I use a lot for my studies. They have two repos on GitHub:
 
 * for [desktop computers][anki-desktop];
 * for [Android devices][ankidroid].
@@ -180,6 +180,7 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 [ankidroid]: https://github.com/ankidroid/Anki-Android "AnkiDroid: Anki on Android"
 [anki-desktop-license]: https://github.com/dae/anki/blob/master/LICENSE "Anki desktop license"
 [ankidroid-license]: https://github.com/ankidroid/Anki-Android/blob/master/COPYING "AnkiDroid license"
+[anki-web]: https://apps.ankiweb.net/ "Anki - powerful, intelligent flashcards"
 [bmo]: https://bugzilla.mozilla.org/ "Bugzilla"
 [bmo-student-projet-kw]: https://bugzil.la/kw:student-project "Keywords: student-project"
 [bugzilla-docs]: https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla "Documentation about B.m.o."
@@ -211,6 +212,7 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 * ankidroid: https://github.com/ankidroid/Anki-Android "AnkiDroid: Anki on Android"
 * anki-desktop-license: https://github.com/dae/anki/blob/master/LICENSE "Anki desktop license"
 * ankidroid-license: https://github.com/ankidroid/Anki-Android/blob/master/COPYING "AnkiDroid license"
+* anki-web: https://apps.ankiweb.net/ "Anki - powerful, intelligent flashcards"
 * bmo: https://bugzilla.mozilla.org/ "Bugzilla"
 * bmo-student-projet-kw : https://bugzil.la/kw:student-project "Keywords: student-project"
 * bugzilla-docs https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla "Documentation about B.m.o."
