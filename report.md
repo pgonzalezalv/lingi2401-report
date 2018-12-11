@@ -110,7 +110,7 @@ I just had an idea for a possible feature. There is no way to show the caption o
 I found an interesting resource today from Mozilla. It is a guide on [Contributing to the Mozilla code base][mdn-web-docs]. There is a lot of information to read. Here are a few things I learned that caught my attention:
 
 * Mozilla uses a bug tracking system called Bugzilla, aka b.m.o (for [bugzilla.mozilla.org][bmo]);
-* There is a [student-project tag][mo-student-projet-kw] in [b.m.o][bmo]:
+* There is a [student-project tag][bmo-student-projet-kw] in [b.m.o][bmo]:
     - this might be a good place to find a project for the [LINGI2402 course][2402];
 * Mozilla has a very well made website to find a first contribution called [Codetribute][codetribute];
 * Basically how to contribute on a Mozilla project:
