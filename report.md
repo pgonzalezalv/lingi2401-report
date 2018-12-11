@@ -201,13 +201,31 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 
 <!-- TODO: find a nicer way to use the refs, which type of refs and cites? -->
 
-[1] “Anki - powerful, intelligent flashcards.” [Online]. Available: https://apps.ankiweb.net/. [Accessed: 25-Sep-2018].
-
-[2] D. Elmes, Anki for desktop computers. Contribute to dae/anki development by creating an account on GitHub. 2018.
-
-[3] AnkiDroid: Anki on Android. Contribute to ankidroid/Anki-Android development by creating an account on GitHub. AnkiDroid, 2018.
-
-[4] L. Dricot, Lingi2401: Open Source strategy for software development - ploum/lingi2401. 2018.
+* 2401: https://github.com/ploum/lingi2401 "Open Source strategy for software development"
+* 2402: https://uclouvain.be/en-cours-2018-lingi2402 "Open Source Project"
+* anki-desktop: https://github.com/dae/anki "Anki for desktop computers"
+* ankidroid: https://github.com/ankidroid/Anki-Android "AnkiDroid: Anki on Android"
+* anki-desktop-license: https://github.com/dae/anki/blob/master/LICENSE "Anki desktop license"
+* ankidroid-license: https://github.com/ankidroid/Anki-Android/blob/master/COPYING "AnkiDroid license"
+* bmo: https://bugzilla.mozilla.org/ "Bugzilla"
+* bmo-student-projet-kw : https://bugzil.la/kw:student-project "Keywords: student-project"
+* bugzilla-docs https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla "Documentation about B.m.o."
+* codetribute: https://codetribute.mozilla.org/ "Find your first code contribution with Mozilla"
+* exercism: https://github.com/exercism/exercism "Exercism"
+* ff: https://github.com/mozilla-mobile/focus-android/ "Firefox Focus for Android"
+* ff-contribute: https://github.com/mozilla-mobile/focus-android/blob/master/CONTRIBUTING.md "Contributing to Focus for Android"
+* ff-issue: https://github.com/mozilla-mobile/focus-android/issues/3997 "Add title attribute in image context menu #3997"
+* ff-irc: irc://irc.mozilla.org/focus "Firefox Focus IRC"
+* ff-license: https://github.com/mozilla-mobile/focus-android/blob/master/LICENSE "Firefox Focus License"
+* ff-mailing-list: https://mail.mozilla.org/listinfo/firefox-focus-public "Firefox-focus-public"
+* mdn-web-docs: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction "Contributing to the Mozilla code base"
+* mibbit: https://mibbit.com/ "Mibbit IRC WebChat"
+* mozilla-android-project-contribute: https://github.com/mozilla-mobile/shared-docs/blob/master/android/CONTRIBUTING_code.md "Contributing code to Mozilla's Android projects"
+* mozilla-guidelines: https://www.mozilla.org/en-US/about/governance/policies/participation/ "Mozilla Community Participation Guidelines"
+* mozilla-mobile-wiki: https://wiki.mozilla.org/Mobile/Get_Involved "Mobile/Get Involved"
+* rust: https://github.com/rust-lang/rust "The Rust Programming Language"
+* superuser: https://superuser.com/questions/106965/how-do-i-identify-with-services-on-irc "How do I identify with services on irc"
+* youtube: https://youtu.be/dDKVKG3ESsk?t=2m12s "I'm going on an adventure!"
 
 
 <!-- Final -->
