@@ -204,8 +204,6 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 
 ## References ##
 
-<!-- TODO: find a nicer way to use the refs, which type of refs and cites? -->
-
 * 2401: https://github.com/ploum/lingi2401 "Open Source strategy for software development"
 * 2402: https://uclouvain.be/en-cours-2018-lingi2402 "Open Source Project"
 * anki-desktop: https://github.com/dae/anki "Anki for desktop computers"
@@ -233,9 +231,3 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 * rust: https://github.com/rust-lang/rust "The Rust Programming Language"
 * superuser: https://superuser.com/questions/106965/how-do-i-identify-with-services-on-irc "How do I identify with services on irc"
 * youtube: https://youtu.be/dDKVKG3ESsk?t=2m12s "I'm going on an adventure!"
-
-
-<!-- Final -->
-
-<!-- TODO: read the report's content and correct-->
-<!-- TODO: check for typos -->
