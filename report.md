@@ -33,12 +33,11 @@
 
 ## Introduction ##
 
-This report was made as a journal as advised by the professor at the beginning of the semester. It contains my evolution through the last few months.
+This report was made as a journal as advised by the professor at the beginning of the semester. It contains my evolution through the last few months. The references are available at the end of this report.
 
 The project I tried to contribute to is : [Firefox Focus, aka Firefox Klar][ff].
-It is a quite recent mobile browser which is privacy-oriented. I choose that project because I believe it is important to have control over our data. Firefox Focus is a step towards that as it tries to block trackers in whatever form they may appear.
+It is a quite recent mobile browser which is privacy-oriented. I choose that project because I believe it is important to have control over our data. Firefox Focus is a step towards that as it tries to block trackers in whatever form they may appear. Firefox Focus uses the [Kotling language][kotling-lang] for the Android version of the app.
 
-Firefox Focus uses the Kotling language for the Android version of the app.
 
 ## 2018-09-25 ##
 
@@ -192,6 +191,7 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 [ff-irc]: irc://irc.mozilla.org/focus "Firefox Focus IRC"
 [ff-license]: https://github.com/mozilla-mobile/focus-android/blob/master/LICENSE "Firefox Focus License"
 [ff-mailing-list]: https://mail.mozilla.org/listinfo/firefox-focus-public "Firefox-focus-public"
+[kotling-lang]: https://kotlinlang.org/ "Kotling Programming Language"
 [mdn-web-docs]: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction "Contributing to the Mozilla code base"
 [mibbit]: https://mibbit.com/ "Mibbit IRC WebChat"
 [mozilla-android-project-contribute]: https://github.com/mozilla-mobile/shared-docs/blob/master/android/CONTRIBUTING_code.md "Contributing code to Mozilla's Android projects"
@@ -222,6 +222,7 @@ As Confucius once said: "The gem cannot be polished without friction, nor man pe
 * ff-irc: irc://irc.mozilla.org/focus "Firefox Focus IRC"
 * ff-license: https://github.com/mozilla-mobile/focus-android/blob/master/LICENSE "Firefox Focus License"
 * ff-mailing-list: https://mail.mozilla.org/listinfo/firefox-focus-public "Firefox-focus-public"
+* kotling-lang: https://kotlinlang.org/ "Kotling Programming Language"
 * mdn-web-docs: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction "Contributing to the Mozilla code base"
 * mibbit: https://mibbit.com/ "Mibbit IRC WebChat"
 * mozilla-android-project-contribute: https://github.com/mozilla-mobile/shared-docs/blob/master/android/CONTRIBUTING_code.md "Contributing code to Mozilla's Android projects"
