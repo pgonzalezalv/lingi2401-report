@@ -166,7 +166,7 @@ First finding a project is easy, there are a lot of them out there. This is quit
 
 Further on, trying to contribute is quite another story, at least for this project. In deed, the most difficult part is to make contact with a person behind Firefox Focus to get some help. Both the mailing list and the irc channel seemed to be dead. I believe this is due that it is still a small community.
 
-Moreover, the documentation given on the project repository is well made but not sufficient for a beginner like me. I spent more time trying to solve problems than being able to contribute on the project. Some of these problems  are still unsolved, and finding solution takes a lot of time. Not being able to get a first contact didn't help either.
+Moreover, the documentation given on the project repository is well made but not sufficient for a beginner like me. I spent more time trying to solve problems than being able to contribute on the project. Some of these problems  are still unsolved, and finding solutions takes a lot of time. Not being able to get a first contact didn't help either.
 
 To put it in a nutshell, although I didn't make a pull request, I however discovered a few things on the way: how to fill a detailed issue on GitHub; how important it is to have feedback for a project to both do something useful and keep the motivation; learned a lot about how Mozilla organizes it's open source community; the basics of the Kotlin language used for Android development; working on an open source project is more difficult than it seems.
 
