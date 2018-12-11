@@ -34,7 +34,7 @@ This report was made as a journal as advised by the professor at the beginning o
 The project I tried to contribute to is : [Firefox Focus, aka Firefox Klar][ff].
 It is a quite recent mobile browser which is privacy-oriented. I choose that project because I believe it is important to have control over our data. Firefox Focus is a step towards that as it tries to block trackers in whatever form they may appear.
 
-<!-- TODO: introduction -->
+Firefox Focus uses the Kotling language for the Android version of the app.
 
 ## 2018-09-25 ##
 
