@@ -23,7 +23,7 @@
 
 [2018-12-10](#2018-12-10)
 
-<!-- [Conclusion](#conclusion) -->
+[Conclusion](#conclusion)
 
 [References](#References)
 
@@ -157,9 +157,19 @@ I have found the problem I had the other day with the repo. I thought I had Andr
 
 I tried to get help on the IRC channel without any success the last few days and still no reaction on the issue. I guess people are quite busy at this period of the year. I have tried to run again the app, without success although I know which file needs to be changed (`WebContextMenu.kt`) but I am not sure where to start, since I can't run it to test it.
 
-<!-- ## Conclusion ## -->
+## Conclusion ##
 
-<!-- TODO: conclusion -->
+My journey through this project was quite an [adventure][youtube]. Next follows what I learned from it.
+
+First finding a project is easy, there are a lot of them out there. This is quite incredible since, in theory, it makes it possible for every single person in the world to contribute to projects without necessarily having programming skills.
+
+Further on, trying to contribute is quite another story, at least for this project. In deed, the most difficult part is to make contact with a person behind Firefox Focus to get some help. Both the mailing list and the irc channel seemed to be dead. I believe this is due that it is still a small community.
+
+Moreover, the documentation given on the project repository is well made but not sufficient for a beginner like me. I spent more time trying to solve problems than being able to contribute on the project. Some of these problems  are still unsolved, and finding solution takes a lot of time. Not being able to get a first contact didn't help either.
+
+To put it in a nutshell, although I didn't make a pull request, I however discovered a few things on the way: how to fill a detailed issue on GitHub; how important it is to have feedback for a project to both do something useful and keep the motivation; learned a lot about how Mozilla organizes it's open source community; the basics of the Kotlin language used for Android development; working on an open source project is more difficult than it seems.
+
+As Confucius once said: "The gem cannot be polished without friction, nor man perfected without trials."
 
 <!-- ## Links ## -->
 
