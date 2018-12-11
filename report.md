@@ -1,6 +1,10 @@
 # Report #
 # LINGI2401 - Open Source strategy for software development #
 
+*Date: 2018-12-11*
+
+*Author: Pablo Gonzalez Alvarez*
+
 ## Table of contents ##
 
 [Introduction](#introduction)
