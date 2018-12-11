@@ -152,7 +152,7 @@ No reactions on the issue and I haven't found a way to contact anyone from the r
 * confirm my email address;
 * and it works, finally!
 
-I have found the problem I had the other day with the repo. I thought I had Android SDK installed on my system, but it wasn't...! Now it is working... Let's finally test the app a bit.
+I have found the problem I had the other day with the repo. I thought I had Android SDK installed on my system, but it wasn't...! Now it seems to work.. Let's hopefully test the app a bit.
 
 ## 2018-12-10 ##
 
